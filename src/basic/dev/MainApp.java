@@ -11,18 +11,18 @@ public class MainApp {
 		String nameclass;
 		String nameschool;
 		float dtb;
+		
 		// tạo thông tin xe car
 		String namecar;
 		String nameManufactuner;
 		float price;
 		String color;
+		
 		// tạo thông tin Worker
 		String nameWorker;
 		String nameaddress;
 		String phone;
 		float coefficient;
-		
-
 	}
 
 }
